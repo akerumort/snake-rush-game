@@ -1,5 +1,7 @@
 <h1 align="center">Snake Rush is more than just a classic snake game 🐍</h1>
 
+<p align="center"><img src="https://socialify.git.ci/akerumort/snakeRushGame/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Signal&theme=Light"></p>
+
 This game is a modern interpretation of the classic snake game with different levels, animations, sound effects and a colorful user interface. The game is built using the Lua language and Solar2D framework, providing a robust platform for desktops and mobile devices too.
 
 ## ⚙️Features
