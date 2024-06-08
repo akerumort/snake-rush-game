@@ -13,7 +13,7 @@ This game is a modern interpretation of the classic snake game with different le
 
 ### 🎮 Animations:
 - Smooth background transitions and movements.
-- Collision and explosion animations when the snake hits obstacles or bombs.
+- Collision and explosion animations when the snake hits obstacles or bombs (used free animations from open sources). 
 
 ### 🔊 Sound Effects:
 - Background music for the main menu and levels (the same for all levels 😥).
@@ -75,7 +75,7 @@ This game is a modern interpretation of the classic snake game with different le
 - **Language**: Lua
 - **Framework**: Solar2D
 - **Image Editing**: Stylized text generators, AI for image generation
-- **Audio Editing**: Free sound effects from various sites
+- **Audio Editing**: Free sound effects from open sources
 
 ## 🔗 File Structure:
 - `main.lua`: The main entry point of the game.
